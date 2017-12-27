@@ -1,5 +1,7 @@
 # javascript-search-plugin
 It is a javascript plugin which can filter html table rows according to user input.
+
+[View the demo here][0] 
 ### Usage
 * Add textbox in your html file
 ```
@@ -31,3 +33,5 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## Acknowledgments
  * The sample data in html table is generated using https://www.generatedata.com/
+
+[0]: http://nagarlalit.github.io/javascript-search-plugin
